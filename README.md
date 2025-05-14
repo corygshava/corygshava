@@ -19,8 +19,8 @@ I'm a web developer, backend engineer, and algorithm tinkerer with a preference 
 ## 🚧 Projects in Progress
 
 - **Thamani** – A Kenyan-inspired app concept for value tracking and digital presence
-- **Laundry Management System** – Lightweight backend system for service automation
-- **Corian Tools** – Code patterns I use for efficient logic control (like the `corian switch`)
+- **The animated Nerd** - A YT channel about coding
+- **More** - check my repos, if its public you can use it, otherwise you'll never see it
 
 ---
 
