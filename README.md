@@ -1,18 +1,18 @@
-# Damian Marks
+# Cornelius G Shava
 
 Welcome to my GitHub.
 
-I'm a web developer, backend engineer, and algorithm tinkerer with a preference for clean, efficient code. I work across the full stack with a strong leaning toward custom builds over bloated frameworks. Whether it's `webshit`, `ucode`, or backend optimization, I like getting to the point—no fluff, just function.
+I'm a web developer, backend engineer, and algorithm tinkerer with a preference for clean, efficient code. I work across the full stack with a strong leaning toward custom builds over bloated frameworks. Whether it's `website development`, `game making with unity`, or backend optimization, I like getting straight to the point, no **fluff**, just function.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** PHP, JavaScript, SQL, HTML, CSS, Solidity
-- **Webstack:** Custom CSS (no Bootstrap unless needed), MySQL (mysqli), Node.js
-- **Other:** Rainmeter skin dev, faceless YT scripting, Unity logic (`ucode`)
-- **Prefers:** `mysqli_real_escape_string()` over verbose prepared statements  
-- **Naming habits:** `app.js` > `script.js`, `.content` for main, modals outside
+- **Languages:** PHP, JavaScript, SQL, HTML, CSS, Solidity, C#
+- **Webstack 1:** Custom CSS (no Bootstrap unless needed), MySQL (mysqli), Node.js (Express,mysql2 etc.)
+- **Webstack 2:** HTML, CSS, JS for frontend and PHP, MySQL for backend
+- **Other:** Rainmeter skin dev, faceless YT scripting, Unity game logic
+- **Prefers:** straight to the point code that can be understood by experts and explained to a 12 year old    
 
 ---
 
@@ -38,5 +38,5 @@ I don’t over-explain, but I always comment where it counts.
 - **YouTube (Faceless scripts):** [in stealth mode]
 - **More coming.**
 
-> _"If it works, explain how. If it doesn’t, fix it—then explain."_ — Me
+> _"If it works, Know why not just how. If it doesn’t, fix it—then explain."_  — Me
 
