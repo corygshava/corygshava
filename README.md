@@ -8,9 +8,10 @@ I'm a web developer, backend engineer, and algorithm tinkerer with a preference 
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** PHP, JavaScript, SQL, HTML, CSS, Solidity, C#
+- **Languages:** PHP, JavaScript, SQL, HTML, CSS, Solidity, C# (unity), python
 - **Webstack 1:** Custom CSS (no Bootstrap unless needed), MySQL (mysqli), Node.js (Express,mysql2 etc.)
 - **Webstack 2:** HTML, CSS, JS for frontend and PHP, MySQL for backend
+- **Webstack 2:** HTML, CSS *(no tailwind unless theres a gun to my head or a tight deadline)*, JS for frontend and nodejs for backend
 - **Other:** Rainmeter skin dev, faceless YT scripting, Unity game logic
 - **Prefers:** straight to the point code that can be understood by experts and explained to a 12 year old    
 
